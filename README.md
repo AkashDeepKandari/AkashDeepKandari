@@ -69,7 +69,7 @@ Dev Bhoomi Uttarakhand University (2023–2027)
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
+* 💼 LinkedIn: https://linkedin.com/in/akashdeepkandari
 * 📧 Email: [kandariakashdeep39@email.com](mailto:kandariakashdeep39@email.com)
 * 🐙 GitHub: https://github.com/AkashDeepKandari
 
