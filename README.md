@@ -59,12 +59,6 @@ Distributed Systems • Data Warehousing • System Design • DSA
 
 ---
 
-## 📈 Achievements
-
-* Built backend systems with optimized database queries
-* Active contributor to GitHub with data-focused projects
-
----
 
 ## 📚 Education
 
