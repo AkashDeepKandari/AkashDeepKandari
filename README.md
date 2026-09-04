@@ -1,148 +1,75 @@
-# Hi 👋, I'm Akashdeep Kandari
+# Hi, I'm Akash Deep Kandari 👋
 
-## 🚀 Full Stack Developer | Backend Developer | Data Engineering Enthusiast
+### Aspiring Software Developer | Java | SQL | QA Automation
 
-📍 Dehradun, Uttarakhand, India
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science undergraduate passionate about building scalable web applications, backend systems, and data-driven solutions.
-
-Currently, I'm focused on becoming a well-rounded **Software Engineer** by mastering Full Stack Development, Backend Engineering, Data Structures & Algorithms, and Computer Science fundamentals. I enjoy solving real-world problems through clean architecture, efficient code, and continuous learning.
+I am a Computer Science and Engineering student interested in software development and quality assurance. I enjoy building applications, working with databases, and testing web applications through manual and automation testing.
 
 ---
 
-## 🎯 Currently Learning
+## 🚀 Technical Skills
 
-* 🌐 Full Stack Development (React, Spring Boot)
-* ☕ Java & Spring Boot Backend Development
-* 🐍 Python for Data Engineering & Automation
-* 🐹 Golang for High-Performance Backend Systems
-* 🧠 Data Structures & Algorithms
-* 🗄️ Database Design & SQL Optimization
-* ☁️ AWS, Docker & Cloud Fundamentals
-* ⚡ System Design & Distributed Systems
+### Programming
+- Java
+- Python
+- SQL
+- JavaScript
 
----
+### Software Testing
+- Manual Testing
+- Functional Testing
+- Regression Testing
+- Smoke Testing
+- Test Case Design
+- Defect Reporting
 
-## 💻 Tech Stack
+### Automation & API Testing
+- Selenium WebDriver
+- TestNG
+- Postman
+- REST APIs
 
-### Languages
-
-* Java
-* Python
-* JavaScript
-* SQL
-* Golang (Learning)
-
-### Frontend
-
-* HTML5
-* CSS3
-* Tailwind CSS
-* JavaScript
-* React
-* Vite
-
-### Backend
-
-* Spring Boot (Learning)
-* REST APIs
-* Node.js (Basics)
-
-### Databases
-
-* MySQL
-* Redis (Learning)
-
-### Data Engineering
-
-* Pandas
-* NumPy
-* PySpark
-* Apache Spark
-* Kafka (Learning)
-* ETL/ELT Pipelines
-* Data Warehousing
-
-### Tools & Technologies
-
-* Git & GitHub
-* Docker
-* Linux
-* AWS (Learning)
-* VS Code
-* IntelliJ IDEA
-* Postman
+### Tools
+- Jira
+- MySQL
+- Git
+- GitHub
 
 ---
 
-## 🚧 Current Projects
+## 📌 Featured Projects
 
-### 🎬 Netflix Data Analysis
+### 👨‍💼 EmpTrack — Employee Management System
 
-* Cleaning and transforming large datasets using Python
-* Performing Exploratory Data Analysis (EDA)
-* Visualizing trends in genres, countries, ratings, and release years
-* Extracting business insights through data analysis
+Java-based application for managing employee records using CRUD operations and MySQL.
 
-### 🌐 Full Stack Projects
+**Tech Stack:** Java | SQL | MySQL
 
-* Responsive React applications
-* REST API integration
-* Authentication systems
-* Modern UI development with Tailwind CSS
+🔗 Repository: Coming Soon
 
 ---
 
-## 📚 Currently Studying
+### 🧪 ShopTest Pro — E-Commerce Testing & Automation Suite
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Operating Systems
-* DBMS
-* Computer Networks
-* System Design
-* Software Engineering
+QA testing project focused on manual testing, Selenium automation, API testing, and defect reporting.
+
+**Tech Stack:** Java | Selenium WebDriver | TestNG | Postman | Jira
+
+🔗 Repository: Coming Soon
 
 ---
 
-## 🎓 Education
+## 📚 Currently Learning
 
-**Bachelor of Technology (B.Tech)**
-Computer Science & Engineering
-
-**Dev Bhoomi Uttarakhand University**
-2023 – 2027
-
----
-
-## 🎯 2026 Goals
-
-* ✅ Master React
-* ✅ Learn Spring Boot
-* ✅ Build 5+ Full Stack Projects
-* ✅ Solve 500+ DSA Problems
-* ✅ Learn AWS & Docker
-* ✅ Contribute to Open Source
-* ✅ Secure a Software Engineering Internship
+- Java Programming
+- SQL & Database Concepts
+- Selenium WebDriver
+- TestNG
+- API Testing with Postman
+- Software Testing Fundamentals
 
 ---
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/akashdeepkandari
-
-📧 Email: [kandariakashdeep39@email.com](mailto:kandariakashdeep39@email.com)
-
-🐙 GitHub: https://github.com/AkashDeepKandari
-
----
-
-## 💡 Quote
-
-> "Keep building, keep learning, and let consistency create opportunities."
-
-⭐ *Always open to learning, collaborating, and building impactful software.*
+- LinkedIn: Add your LinkedIn profile link
+- Email: akashdeep.23btcse0209@dbuumail.in
